@@ -1,0 +1,30 @@
+{
+    "workshop": {
+        "title": "Integrating with NetSuite using ICS Workshop",
+        "description": "A hands-on event to explore Integrating with NetSuite using Oracle’s Integration Cloud Servicce.",
+        "labs": [{
+                "number": "1",
+                "filename": "Home.md",
+                "title": "Home",
+                "description": "Welcome to the ICS workshop"
+            },{
+                "number": "10",
+                "filename": "StudentGuide.md",
+                "title": "Prerequisites",
+                "description": "Workshop guidance and prerequisites"
+            },
+            {
+                "number": "100",
+                "filename": "ics100.md",
+                "title": "Lab 100: Exploring ICS",
+                "description": "This lab will expose you to the functionality in ICS."
+            },
+            {
+                "number": "200",
+                "filename": "ics200.md",
+                "title": "Lab 200: Integrating with NetSuite using ICS Development",
+                "description": "In this Lab we will build a NetSuite ERP integration."
+            },
+        ]
+    }
+}
