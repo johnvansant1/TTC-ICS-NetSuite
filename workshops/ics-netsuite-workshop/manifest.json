@@ -24,7 +24,7 @@
                 "filename": "ics200.md",
                 "title": "Lab 200: Integrating with NetSuite using ICS Development",
                 "description": "In this Lab we will build a NetSuite ERP integration."
-            },
+            }
         ]
     }
 }
