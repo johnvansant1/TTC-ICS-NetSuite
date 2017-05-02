@@ -29,32 +29,13 @@ The objective of this lab is to expose you to:
 
 - **Getting familiar with ICS concepts**
 
-## Lab 200: Mappings
+## Lab 200: Develop a NetSuite Integration
 
 **Documenation**: ics200.md
 
 ### Objectives
 The objective of this lab is to expose you to:
 
-- **Build your first 'hello world' integration**
+- **Build an integration to NetSuite using ICS**
 
-
-## Lab 300: Adapters
-
-**Documenation**: ics300.md
-
-### Objectives
-The objective of this lab is to expose you to the:
-
-- **Integration into backend systems**
-
-- **Database adapter**
-
-## Lab 400: Orchestration
-
-**Documentation**: ics400.md
-
-### Objectives
-
-- **Use the previous labs experiences to build a integration into Oracle's eBusiness Suite**
 
